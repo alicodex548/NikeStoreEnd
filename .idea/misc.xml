@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/drawable/ic_favorites.xml" value="0.1265" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/layout/activity_check_out.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/layout/activity_favorite_products.xml" value="0.264" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/layout/activity_product_detail.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/layout/item_favorite_product.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/ForCheck-main/app/src/main/res/layout/item_product.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/drawable/background_auth_et.xml" value="0.216" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/activity_check_out.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/activity_comment_list.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/activity_favorite_products.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/activity_product_detail.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/activity_product_list.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/fragment_banner.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/fragment_home.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/item_cart.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/item_favorite_product.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/item_product.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/item_product_large.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/item_product_small.xml" value="0.240625" />
+        <entry key="..\:/Users/alireza/AndroidStudioProjects/NikeShop-Ali/app/src/main/res/layout/view_toolbar.xml" value="0.240625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
